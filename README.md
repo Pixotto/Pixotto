@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hola, soy Otto, un estudiante mexicano apasionado por la física teórica, la inteligencia artificial, el desarrollo de software educativo y el arte como forma de expresión profunda.<br><br>Actualmente me encuentro desarrollando proyectos de simulación física en Python, estudiando de forma autodidacta los fundamentos de la teoría cuántica de campos, la relatividad general y el modelo estándar, y formando una base sólida en matemáticas avanzadas. Todo esto con la visión clara de aportar algo significativo al campo de la ciencia, mientras diseño formas creativas de compartirlo con el mundo.</p>
+<p align="left">Hola, soy Otto, un estudiante mexicano apasionado por la física teórica, la inteligencia artificial, el desarrollo de software educativo y el arte como forma de expresión profunda.
 
 ###
 
