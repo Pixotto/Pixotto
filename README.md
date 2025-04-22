@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hola, soy Otto, un estudiante mexicano apasionado por la física teórica, la inteligencia artificial, el desarrollo de software educativo y el arte como forma de expresión profunda.
+<p align="left">Hola, soy Otto, un estudiante mexicano apasionado por la física teórica, la inteligencia artificial, el desarrollo de software educativo y el arte como forma de expresión profunda.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🚀 ¿Qué estoy haciendo ahora?<br><br>📚 Estudiando física y matemáticas avanzadas por cuenta propia.<br><br>🧪 Desarrollando el simulador interactivo Quantum Collider, una herramienta educativa que representa el Modelo Estándar de partículas de forma visual y manipulable.<br><br>💻 Profundizando en Python, Pygame, estructuras físicas y visualización computacional para proyectos científicos.<br><br><br>🎯 Mis objetivos:<br><br>- Crear herramientas que ayuden a otros a aprender física de manera visual, intuitiva y lúdica.<br><br>- Participar en proyectos de investigación científica de alto nivel a nivel internacional.<br><br>- Dominar la intersección entre ciencia, software y arte.</p>
+<p align="left">🚀 ¿Qué estoy haciendo ahora?<br><br>📚 Estudiando física y matemáticas avanzadas por cuenta propia.<br><br>🧪 Desarrollando el simulador interactivo Quantum Collider, una herramienta educativa que representa el Modelo Estándar de partículas de forma visual y manipulable.<br><br><br>💻 Profundizando en Python, Pygame, estructuras físicas y visualización computacional para proyectos científicos.<br><br><br>🎯 Mis objetivos:<br><br>- Crear herramientas que ayuden a otros a aprender física de manera visual, intuitiva y lúdica.<br><br>- Participar en proyectos de investigación científica de alto nivel a nivel internacional.<br><br>- Dominar la intersección entre ciencia, software y arte.</p>
 
 ###
 
@@ -32,14 +32,6 @@
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pixotto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixotto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pixotto&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
