@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🚀 ¿Qué estoy haciendo ahora?<br><br>📚 Estudiando física y matemáticas avanzadas por cuenta propia.<br><br>🧪 Desarrollando el simulador interactivo Quantum Collider, una herramienta educativa que representa el Modelo Estándar de partículas de forma visual y manipulable.<br><br><br>💻 Profundizando en Python, Pygame, estructuras físicas y visualización computacional para proyectos científicos.<br><br><br>🎯 Mis objetivos:<br><br>- Crear herramientas que ayuden a otros a aprender física de manera visual, intuitiva y lúdica.<br><br>- Participar en proyectos de investigación científica de alto nivel a nivel internacional.<br><br>- Dominar la intersección entre ciencia, software y arte.</p>
+<p align="left">🚀 ¿Qué estoy haciendo ahora?:<br><br>📚 Estudiando física y matemáticas avanzadas por cuenta propia.<br><br>🧪 Desarrollando el simulador interactivo Quantum Collider, una herramienta educativa que representa el Modelo Estándar de partículas de forma visual y manipulable.<br><br><br>💻 Profundizando en Python, Pygame, estructuras físicas y visualización computacional para proyectos científicos.<br><br><br>🎯 Mis objetivos:<br><br>- Crear herramientas que ayuden a otros a aprender física de manera visual, intuitiva y lúdica.<br><br>- Participar en proyectos de investigación científica de alto nivel a nivel internacional.<br><br>- Dominar la intersección entre ciencia, software y arte.</p>
 
 ###
 
