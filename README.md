@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hola, soy Otto, un estudiante mexicano apasionado por la física teórica, la inteligencia artificial, el desarrollo de software educativo y el arte como forma de expresión profunda.</p>
+<p align="left">Hola, soy Otto, un estudiante mexicano de 17 años apasionado por la física teórica, la inteligencia artificial, el desarrollo de software educativo y el arte como forma de expresión profunda.</p>
 
 ###
 
